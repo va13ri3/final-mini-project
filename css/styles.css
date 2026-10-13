@@ -1,0 +1,19 @@
+.tip {
+background-color: blue;
+-webkit-text-fill-color: white;
+}
+
+.pay {
+background-color: green;
+-webkit-text-fill-color: white;
+}
+
+.grade {
+background-color: yellow;
+-webkit-text-fill-color: black;
+}
+
+.gas {
+background-color: red;
+-webkit-text-fill-color: white;
+}
